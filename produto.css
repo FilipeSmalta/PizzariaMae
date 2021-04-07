@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0
+}
+body{
+background-color: yellow;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    background-color: red;
+    padding-top: 20px;
+
+    text-align: center;
+
+}
+#header {
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+ul li {
+    display: inline;
+    padding-left: 30px;
+
+}
+
+a {
+    padding-left: 10rem;
+    
+font-size: 25px;
+
+    text-decoration: none;
+text-transform: uppercase;
+color: black;
+font-weight: bold;
+padding-left: 20px;
+}
+
+h2 {
+  font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+}
+main{
+    background-image: url("imagens/promocao.webp");
+    position: relative;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    -webkit-box-flex: inherit;
+    padding-right: 5rem;
+    padding-left: 5rem;
+
+}
+.container .pizzas{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding-top: 10px;
+    border-radius: 3rem 3rem 3rem;
+    border: 3px;
+    background-color:rgb(182, 17, 17);
+    color: rgb(244, 248, 0);
+    text-transform: uppercase;
+    font-size: 22px;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    opacity: 0.7;
+}
+
+
